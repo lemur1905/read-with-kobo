@@ -1,0 +1,4 @@
+# generated per-book output (regenerable with epub2md.py; full book text, keep out of git)
+out/
+.DS_Store
+__pycache__/
